@@ -2,8 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Live Project Link
 
+(https://gtim-landing-page-git-main-piyush8i8s-projects.vercel.app/)
 In the project directory, you can run:
 
 ### `npm start`

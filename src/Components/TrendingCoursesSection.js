@@ -6,13 +6,14 @@ const header = {
 };
 
 const categories = [
-  { label: "Data Science", img: "https://source.unsplash.com/40x40/?data" },
-  { label: "Digital Marketing", img: "https://source.unsplash.com/40x40/?marketing" },
-  { label: "Full Stack Development", img: "https://source.unsplash.com/40x40/?code" },
-  { label: "Cloud Computing", img: "https://source.unsplash.com/40x40/?cloud" },
-  { label: "Cybersecurity", img: "https://source.unsplash.com/40x40/?cyber" },
-  { label: "Blockchain", img: "https://source.unsplash.com/40x40/?blockchain" },
-  { label: "UI/UX Design", img: "https://source.unsplash.com/40x40/?design" },
+  { label: "BBA", img: "https://source.unsplash.com/40x40/?data" },
+  { label: "BCA", img: "https://source.unsplash.com/40x40/?marketing" },
+  { label: "BCOM", img: "https://source.unsplash.com/40x40/?code" },
+  { label: "BA", img: "https://source.unsplash.com/40x40/?cloud" },
+  { label: "MBA", img: "https://source.unsplash.com/40x40/?cyber" },
+  { label: "MCA", img: "https://source.unsplash.com/40x40/?blockchain" },
+  { label: "MCOM", img: "https://source.unsplash.com/40x40/?design" },
+  { label: "MA", img: "https://source.unsplash.com/40x40/?design" },
 ];
 
 const courses = [
@@ -69,13 +70,12 @@ const Scroller = ({ items, speed = 40 }) => (
       }}
     >
       {[...items, ...items].map((item, index) => (
-        <div
-          key={index}
-          className="flex-shrink-0 px-5 py-2 rounded-xl bg-green-50 border border-green-100 hover:shadow-md transition min-w-[180px] flex items-center gap-3"
-        >
-          {/* <img src={item.img} alt={item.label} className="h-10 w-10 rounded-full object-cover" /> */}
-          <span className="font-medium text-sm text-gray-800">{item.label}</span>
-        </div>
+       <div
+  key={index}
+  className="flex-shrink-0 px-5 text-center py-2 rounded-xl bg-green-50 border border-green-100 hover:shadow-md transition min-w-[180px] flex items-center justify-center gap-3"
+>
+  <span className="font-medium text-sm text-gray-800">{item.label}</span>
+</div>
       ))}
     </div>
   </div>

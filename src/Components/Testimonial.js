@@ -11,9 +11,9 @@ const testimonialList = [
     company: "Google",
     salary: "₹25 LPA",
     logo: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
-    image: "https://randomuser.me/api/portraits/men/32.jpg",
+    image: "https://pixahive.com/wp-content/uploads/2021/01/A-stylish-Indian-boy-303602-pixahive.jpg",
     quote:
-      "The AI-powered curriculum helped me transition from mechanical engineering to data science seamlessly.",
+      "After completing my MCA from GTIM, I got placed as a Software Developer in a reputed IT firm. Their job assistance program and interview prep sessions were a game-changer. Highly grateful!",
     rating: 5,
   },
   {
@@ -22,7 +22,7 @@ const testimonialList = [
     company: "Microsoft",
     salary: "₹30 LPA",
     logo: "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg",
-    image: "https://randomuser.me/api/portraits/women/44.jpg",
+    image: "https://thumbs.dreamstime.com/b/simple-indian-girl-sweet-smile-happy-face-44021920.jpg",
     quote:
       "Global Tech Institute's hands-on approach prepared me perfectly for my dream job at Microsoft.",
     rating: 5,
@@ -33,9 +33,9 @@ const testimonialList = [
     company: "Amazon",
     salary: "₹35 LPA",
     logo: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
-    image: "https://randomuser.me/api/portraits/women/65.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWgwSJJrT3cNn45-Hy9ecQuSYQ53L1OwD2Q&s",
     quote:
-      "The industry connections and real-world projects gave me the edge I needed to land my dream role.",
+      "Thanks to GTIM’s career cell, I secured a job as a Data Analyst right after my BCA. The resume workshops and mock interviews really helped me stand out.",
     rating: 5,
   },
   {
@@ -44,9 +44,9 @@ const testimonialList = [
     company: "NVIDIA",
     salary: "₹40 LPA",
     logo: "https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg",
-    image: "https://randomuser.me/api/portraits/men/45.jpg",
+    image: "https://w0.peakpx.com/wallpaper/459/1009/HD-wallpaper-indian-model-boy-cute-u-wall.jpg",
     quote:
-      "Thanks to the deep learning modules, I cracked my interview with confidence and expertise.",
+      "GTIM doesn’t just give you a degree—they prepare you for the job market. Their connections with hiring companies helped me get placed in an MNC. Thank you, GTIM!",
     rating: 5,
   },
   {
@@ -55,22 +55,12 @@ const testimonialList = [
     company: "Adobe",
     salary: "₹28 LPA",
     logo: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Systems_logo_and_wordmark.svg",
-    image: "https://randomuser.me/api/portraits/women/72.jpg",
+    image: "https://i.pinimg.com/736x/6e/1a/05/6e1a059cb4c19eb40cf00fdac1a3e53e.jpg",
     quote:
-      "Their design thinking sessions and portfolio reviews were game changers in my career.",
+      ". I was skeptical at first, but GTIM’s placement team proved me wrong. After my BBA, I got hired by a leading finance company. They truly care about student success.",
     rating: 5,
   },
-  {
-    name: "Aman Raj",
-    role: "Backend Developer",
-    company: "Flipkart",
-    salary: "₹22 LPA",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flipkart_logo.png",
-    image: "https://randomuser.me/api/portraits/men/64.jpg",
-    quote:
-      "Real-world assignments helped me understand architecture and deployment better than any textbook.",
-    rating: 5,
-  },
+  
 ];
 
 // Star Rating

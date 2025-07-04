@@ -8,19 +8,19 @@ const testimonials = [
     role: "Full Stack Developer at Microsoft",
     image: "https://randomuser.me/api/portraits/men/32.jpg",
     quote:
-      "Best investment in my career. The practical projects and industry mentorship made all the difference.",
+      "GTIM made it easy for me to balance my job and studies. Their distance education program was well-structured and career-oriented. I finally completed my BCA without compromising on work.",
   },
   {
     name: "Anita Patel",
     role: "Cybersecurity Analyst at Amazon",
-    image: "https://randomuser.me/api/portraits/women/65.jpg",
+    image: "https://i.pinimg.com/originals/2a/13/e9/2a13e93956ec8f95de792d6e460d1ded.jpg",
     quote:
-      "From zero coding background to landing a top job — this program made it happen.",
+      "GTIM made it easy for me to balance my job and studies. Their distance education program was well-structured and career-oriented. I finally completed my BCA without compromising on work.",
   },
   {
     name: "Yash Verma",
     role: "Data Engineer at Google",
-    image: "https://randomuser.me/api/portraits/men/36.jpg",
+    image: "https://wallpapercave.com/wp/wp5047332.jpg",
     quote:
       "The structure, mentorship, and hands-on projects helped me level up quickly.",
   },
@@ -29,22 +29,16 @@ const testimonials = [
     role: "UI/UX Designer at Adobe",
     image: "https://randomuser.me/api/portraits/women/66.jpg",
     quote:
-      "I loved the practical focus and design challenges—it pushed me to be better.",
+      "The counselors at GTIM guided me to pick the right specialization. Their assistance didn’t stop after admission—they followed up and ensured I stayed on track. Very helpful team!",
   },
   {
     name: "Arjun Mehta",
     role: "DevOps Engineer at Flipkart",
-    image: "https://randomuser.me/api/portraits/men/64.jpg",
+    image: "https://tse3.mm.bing.net/th/id/OIP.MZtUHIIZTklw6RxCZK5mawHaJi?rs=1&pid=ImgDetMain&o=7&rm=3",
     quote:
-      "From deployment pipelines to cloud infrastructure, I learned it all here.",
+      "I was looking for a cost-effective yet recognized program and GTIM delivered. Got my B.Com degree and even got placement assistance. Highly valuable for career-focused students.",
   },
-  {
-    name: "Sneha Reddy",
-    role: "AI Specialist at NVIDIA",
-    image: "https://randomuser.me/api/portraits/women/72.jpg",
-    quote:
-      "Truly transformative — the AI modules and real-world case studies were excellent.",
-  },
+ 
 ];
 
 const TestimonialCard = ({ t }) => (

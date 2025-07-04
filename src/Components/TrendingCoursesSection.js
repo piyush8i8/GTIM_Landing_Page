@@ -145,7 +145,7 @@ const TrendingCoursesSection = () => {
         <p className="text-gray-600 mt-3 text-lg">{header.subtitle}</p>
       </div>
       <Scroller items={categories} speed={50} />
-      <CourseCardScroller items={courses} speed={70} />
+      {/* <CourseCardScroller items={courses} speed={70} /> */}
     </section>
   );
 };

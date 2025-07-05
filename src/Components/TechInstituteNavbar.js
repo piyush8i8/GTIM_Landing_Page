@@ -23,7 +23,7 @@ function TechInstituteNavbar() {
               href="tel:+919599606497"
               className="text-gray-700 hover:text-blue-600 font-medium"
             >
-              📞 +91 95996 06497
+              📞 +91 7838813348
             </a>
           </div>
 

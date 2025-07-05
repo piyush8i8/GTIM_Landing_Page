@@ -13,7 +13,7 @@ const testimonials = [
   {
     name: "Anita Patel",
     role: "Cybersecurity Analyst at Amazon",
-    image: "https://i.pinimg.com/originals/2a/13/e9/2a13e93956ec8f95de792d6e460d1ded.jpg",
+    image: "https://img.freepik.com/free-photo/closeup-content-attractive-indian-business-lady_1262-2094.jpg",
     quote:
       "GTIM made it easy for me to balance my job and studies. Their distance education program was well-structured and career-oriented. I finally completed my BCA without compromising on work.",
   },
@@ -27,7 +27,7 @@ const testimonials = [
   {
     name: "Neha Sharma",
     role: "UI/UX Designer at Adobe",
-    image: "https://randomuser.me/api/portraits/women/66.jpg",
+    image: "https://img.freepik.com/premium-photo/indian-woman-with-crossed-arms-wearing-formal-shirt_856987-1888.jpg",
     quote:
       "The counselors at GTIM guided me to pick the right specialization. Their assistance didn’t stop after admission—they followed up and ensured I stayed on track. Very helpful team!",
   },

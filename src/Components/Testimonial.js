@@ -22,7 +22,7 @@ const testimonialList = [
     company: "Microsoft",
     salary: "₹30 LPA",
     logo: "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg",
-    image: "https://thumbs.dreamstime.com/b/simple-indian-girl-sweet-smile-happy-face-44021920.jpg",
+    image: "https://img.freepik.com/free-photo/happy-businesswoman-holding-folder_74855-5075.jpg?semt=ais_hybrid&w=740",
     quote:
       "Global Tech Institute's hands-on approach prepared me perfectly for my dream job at Microsoft.",
     rating: 5,
@@ -33,7 +33,7 @@ const testimonialList = [
     company: "Amazon",
     salary: "₹35 LPA",
     logo: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWgwSJJrT3cNn45-Hy9ecQuSYQ53L1OwD2Q&s",
+    image: "https://img.freepik.com/free-photo/portrait-smiling-businesswoman-with-mobile-phone_1262-1062.jpg?semt=ais_hybrid&w=740",
     quote:
       "Thanks to GTIM’s career cell, I secured a job as a Data Analyst right after my BCA. The resume workshops and mock interviews really helped me stand out.",
     rating: 5,
@@ -54,8 +54,8 @@ const testimonialList = [
     role: "UX Designer",
     company: "Adobe",
     salary: "₹28 LPA",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Systems_logo_and_wordmark.svg",
-    image: "https://i.pinimg.com/736x/6e/1a/05/6e1a059cb4c19eb40cf00fdac1a3e53e.jpg",
+    logo: "https://www.adobe.com/homepage/assets/product-icons/jpg/default.jpg?width=1200&format=pjpg&optimize=medium",
+    image: "https://t3.ftcdn.net/jpg/08/88/22/28/360_F_888222808_nBygnZcXC7vPdp0PN8bQwuN7Mbje1He7.jpg",
     quote:
       ". I was skeptical at first, but GTIM’s placement team proved me wrong. After my BBA, I got hired by a leading finance company. They truly care about student success.",
     rating: 5,

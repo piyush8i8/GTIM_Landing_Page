@@ -243,16 +243,22 @@ const CareerFormModal = ({ onClose, onSubmit }) => {
               onChange={handleChange}
             >
               <option value="">Select a course</option>
-              <option value="MBA">MBA</option>
-              <option value="MCA">MCA</option>
-              <option value="BBA">BBA</option>
-              <option value="BA">BA</option>
-              <option value="B.Tech">B.Tech</option>
-              <option value="M.Tech">M.Tech</option>
-              <option value="BCA">BCA</option>
-              <option value="B.Com">B.Com</option>
-              <option value="M.Com">M.Com</option>
-              <option value="MA">MA</option>
+           <option value="BA">BA</option>
+<option value="BSC">BSC</option>
+<option value="BCOM">BCOM</option>
+<option value="BLib">BLib</option>
+<option value="BBA">BBA</option>
+<option value="BTech">BTech</option>
+<option value="BCA">BCA</option>
+<option value="MA">MA</option>
+<option value="MSC">MSC</option>
+<option value="MCOM">MCOM</option>
+<option value="MLib">MLib</option>
+<option value="MBA">MBA</option>
+<option value="MTech">MTech</option>
+<option value="MCA">MCA</option>
+<option value="Diploma">Diploma</option>
+
             </select>
             {errors.course && <p className="text-red-500 text-sm">{errors.course}</p>}
           </div>

@@ -309,10 +309,22 @@ const CareerConsultationForm = () => {
                 }`}
               >
                 <option value="">Select a course</option>
-                <option value="Web Development">Web Development</option>
-                <option value="Data Science">Data Science</option>
-                <option value="UI/UX Design">UI/UX Design</option>
-                <option value="Cloud Computing">Cloud Computing</option>
+               <option value="BA">BA</option>
+<option value="BSC">BSC</option>
+<option value="BCOM">BCOM</option>
+<option value="BLib">BLib</option>
+<option value="BBA">BBA</option>
+<option value="BTech">BTech</option>
+<option value="BCA">BCA</option>
+<option value="MA">MA</option>
+<option value="MSC">MSC</option>
+<option value="MCOM">MCOM</option>
+<option value="MLib">MLib</option>
+<option value="MBA">MBA</option>
+<option value="MTech">MTech</option>
+<option value="MCA">MCA</option>
+<option value="Diploma">Diploma</option>
+
               </select>
               {errors.course && (
                 <p className="text-red-500 text-xs mt-1">{errors.course}</p>

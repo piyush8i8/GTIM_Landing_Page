@@ -1,5 +1,5 @@
 import React from "react";
-import { Globe, BookOpen, Wrench, Zap } from "lucide-react";
+import { Globe, BookOpen, Wrench, Zap,ListChecks } from "lucide-react";
 
 const modes = [
   {
@@ -27,12 +27,12 @@ const modes = [
     Icon: Wrench,
   },
   {
-    title: "Skill Development",
-    description: "Short-term courses for modern careers",
+    title: "Regular Courses",
+    description: "Regular classes for career readiness",
     color: "bg-orange-50",
     iconBg: "bg-orange-100",
     iconColor: "text-orange-600",
-    Icon: Zap,
+    Icon: ListChecks,
   },
 ];
 

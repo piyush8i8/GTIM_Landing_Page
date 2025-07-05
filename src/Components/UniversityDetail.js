@@ -66,8 +66,9 @@ const programData = {
     name: "RIT College, Roorkee",
     location: "Roorkee, India",
     programs: [
-      { title: "B.Tech", eligibility: "12th", duration: "4 Years" },
+      { title: "BSC", eligibility: "12th", duration: "3 Years" },
       { title: "BCA", eligibility: "12th", duration: "3 Years" },
+      { title: "B.Tech", eligibility: "12th", duration: "4 Years" },
       { title: "BBA", eligibility: "12th", duration: "3 Years" },
     ],
   },
@@ -87,7 +88,7 @@ const programData = {
       { title: "M.Tech", eligibility: "Graduation", duration: "2 Years" },
     ],
   },
-  ignou: {
+  "ignou": {
     name: "Indira Gandhi National Open University",
     location: "New Delhi, India",
     programs: [
@@ -107,8 +108,13 @@ const programData = {
     name: "Dev Bhoomi University",
     location: "Dehradun, India",
     programs: [
-      { title: "B.Sc Nursing", eligibility: "12th", duration: "4 Years" },
+      { title: "B.Sc.‑Nursing", eligibility: "12th", duration: "4 Years" },
+      { title: "B.Tech", eligibility: "12th", duration: "4 Years" },
+      { title: "BCA", eligibility: "12th", duration: "3 Years" },
+      { title: "BBA", eligibility: "12th", duration: "3 Years" },
       { title: "MBA", eligibility: "Graduation", duration: "2 Years" },
+      { title: "MCA", eligibility: "Graduation", duration: "2 Years" },
+      { title: "M.Tech", eligibility: "Graduation", duration: "2 Years" },
     ],
   },
   "hrit-university": {
@@ -116,33 +122,76 @@ const programData = {
     location: "Ghaziabad, India",
     programs: [
       { title: "B.Tech", eligibility: "12th", duration: "4 Years" },
-      { title: "MBA", eligibility: "Graduation", duration: "2 Years" },
+      { title: "M.Tech", eligibility: "Graduation", duration: "2 Years" },
+      { title: "Polytechnic", eligibility: "12th", duration: "3 Years" },
+      { title: "BCA", eligibility: "12th", duration: "3 Years" },
+      { title: "MCA", eligibility: "Graduation", duration: "2 Years" }
     ],
   },
   "kl-university": {
     name: "KL University",
     location: "Vijayawada, India",
     programs: [
-      { title: "B.Tech", eligibility: "12th", duration: "4 Years" },
-      { title: "M.Tech", eligibility: "Graduation", duration: "2 Years" },
+    { title: "BBA", eligibility: "12th", duration: "3 Years" },
+    { title: "BCA", eligibility: "12th", duration: "3 Years" },
+    { title: "MBA", eligibility: "Graduation", duration: "2 Years" },
     ],
   },
   "mangalayatan-university": {
     name: "Mangalayatan University",
     location: "Aligarh, India",
     programs: [
-      { title: "B.Tech", eligibility: "12th", duration: "4 Years" },
-      { title: "M.Tech", eligibility: "Graduation", duration: "2 Years" },
+       { title: "BA", eligibility: "12th", duration: "3 Years" },
+    { title: "BBA", eligibility: "12th", duration: "3 Years" },
+    { title: "BCA", eligibility: "12th", duration: "3 Years" },
+    { title: "MA (English)", eligibility: "Graduation", duration: "2 Years" },
+    { title: "MA (Pol Science)", eligibility: "Graduation", duration: "2 Years" },
+    { title: "MA JMC", eligibility: "Graduation", duration: "2 Years" },
+    { title: "MA (Education)", eligibility: "Graduation", duration: "2 Years" },
+    { title: "MA (Public Administration)", eligibility: "Graduation", duration: "2 Years" },
+    { title: "MBA", eligibility: "Graduation", duration: "2 Years" },
+    { title: "M.Com", eligibility: "Graduation", duration: "2 Years" },
+    { title: "MCA", eligibility: "Graduation", duration: "2 Years" },
+    { title: "M.Sc (Mathematics)", eligibility: "Graduation", duration: "2 Years" },
     ],
   },
   "mzu-university": {
     name: "MZU University",
     location: "Mizoram, India",
     programs: [
-      { title: "BA", eligibility: "12th", duration: "3 Years" },
-      { title: "MA", eligibility: "Graduation", duration: "2 Years" },
+     { title: "B.Com E-Commerce", eligibility: "12th", duration: "3 Years" },
+    { title: "BBA", eligibility: "12th", duration: "3 Years" },
+    { title: "BCA", eligibility: "12th", duration: "3 Years" },
+    { title: "M.Com", eligibility: "Graduation", duration: "2 Years" },
+    { title: "MBA", eligibility: "Graduation", duration: "2 Years" },
     ],
   },
+  "subharti-university": {
+  name: "Subharti University",
+  location: "Meerut, Uttar Pradesh, India",
+  programs: [
+    { title: "BA", eligibility: "12th", duration: "3 Years" },
+    { title: "BLib", eligibility: "12th", duration: "1 Year" },
+    { title: "BCom", eligibility: "12th", duration: "3 Years" },
+    { title: "BBA", eligibility: "12th", duration: "3 Years" },
+    { title: "MA", eligibility: "Graduation", duration: "2 Years" },
+    { title: "MLib", eligibility: "Graduation", duration: "1 Year" },
+    { title: "MCom", eligibility: "Graduation", duration: "2 Years" },
+    { title: "MBA", eligibility: "Graduation", duration: "2 Years" }
+  ]
+},
+
+"manav-rachna-university": {
+  name: "Manav Rachna University",
+  location: "Faridabad, Haryana, India",
+  programs: [
+    { title: "BCA", eligibility: "12th", duration: "3 Years" },
+    { title: "BBA", eligibility: "12th", duration: "3 Years" },
+    { title: "MCA", eligibility: "Graduation", duration: "2 Years" },
+    { title: "MBA (Dual Specialization)", eligibility: "Graduation", duration: "2 Years" }
+  ]
+}
+
 };
 
 const UniversityDetail = () => {

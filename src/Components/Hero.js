@@ -71,10 +71,10 @@ const Hero = () => {
 
       {/* Content */}
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-4">
-        <div className="mb-4 px-4 py-1 bg-white text-blue-600 rounded-full text-sm flex items-center gap-2 font-medium">
+        {/* <div className="mb-4 px-4 py-1 bg-white text-blue-600 rounded-full text-sm flex items-center gap-2 font-medium">
           <Rocket className="w-4 h-4" />
           AI-Powered Course Discovery Platform
-        </div>
+        </div> */}
         <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight">
           Transform Your <br />
           <span className="text-blue-400">Future Today</span>

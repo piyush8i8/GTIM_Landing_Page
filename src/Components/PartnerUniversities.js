@@ -185,7 +185,22 @@ const universities = [
     name: "Graphic Era",
     fullName: "Graphic Era",
     img: "https://i.ytimg.com/vi/QExH9z2On00/maxresdefault.jpg",
+  },
+  {
+  slug: "subharti-university",
+  name: "Subharti University",
+  fullName: "Swami Vivekanand Subharti University",
+  location: "Meerut, Uttar Pradesh, India",
+  img: "https://www.globalinstitute.in/public/images/university/642b114614d0fca2fad96a1976b0ba92.png",
+  },
+  {
+  slug: "manav-rachna-university",
+  name: "Manav Rachna University",
+  fullName: "Manav Rachna University",
+  location: "Faridabad, Haryana, India",
+  img: "https://www.admissionindia.net/uploads/lpcolleges/30/bannerimage_1515757127.jpg",
   }
+
 ];
 
 const scrollStyle = {

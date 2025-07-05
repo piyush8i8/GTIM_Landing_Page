@@ -49,6 +49,7 @@ import PartnerUniversities from './Components/PartnerUniversities';
 import Certifications from './Components/Certifications';
 import Hero from './Components/Hero';
 import UniversityDetail from './Components/UniversityDetail';
+import TechInstituteNavbar from './Components/TechInstituteNavbar';
 
 function App() {
   return (
@@ -59,6 +60,7 @@ function App() {
             path="/"
             element={
               <>
+              <TechInstituteNavbar />
                 <Hero />
                 <Certifications />
                 <PartnerUniversities />

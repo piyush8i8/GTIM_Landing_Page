@@ -19,7 +19,7 @@ const testimonials = [
   },
   {
     name: "Yash Verma",
-    role: "Data Engineer at Google",
+    role: "Bussiness Analyst at Infosys",
     image: "https://wallpapercave.com/wp/wp5047332.jpg",
     quote:
       "The structure, mentorship, and hands-on projects helped me level up quickly.",

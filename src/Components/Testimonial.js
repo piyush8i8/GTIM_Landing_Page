@@ -51,7 +51,7 @@ const testimonialList = [
   },
   {
     name: "Simran Kaur",
-    role: "UX Designer",
+    role: "Bussiness Analyst",
     company: "Adobe",
     salary: "₹28 LPA",
     logo: "https://www.adobe.com/homepage/assets/product-icons/jpg/default.jpg?width=1200&format=pjpg&optimize=medium",

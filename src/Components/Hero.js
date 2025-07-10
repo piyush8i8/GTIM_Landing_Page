@@ -10,7 +10,7 @@ import {
 
 const backgrounds = [
   "b1.jpg",
-  "b2.jpg",
+  // "b2.jpg",
   "b3.jpg",
   "b4.jpg",
   "b5.jpg",

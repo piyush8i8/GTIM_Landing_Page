@@ -10,6 +10,7 @@ const CareerFormModal = ({ onClose, onSubmit }) => {
     email: "",
     phone: "",
     course: "",
+    
     message: "",
   });
 
@@ -262,6 +263,8 @@ const CareerFormModal = ({ onClose, onSubmit }) => {
             </select>
             {errors.course && <p className="text-red-500 text-sm">{errors.course}</p>}
           </div>
+         
+
           <div className="sm:col-span-2">
             <label className="flex items-center gap-1 font-semibold text-sm">
               <FaCommentDots /> Additional Message (Optional)

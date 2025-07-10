@@ -309,3 +309,8 @@ const UniversityDetail = () => {
 };
 
 export default UniversityDetail;
+
+
+
+
+
